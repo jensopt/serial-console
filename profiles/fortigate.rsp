@@ -1,0 +1,5 @@
+# FortiGate console
+# Usage: SerialTerm @fortigate
+--baud
+9600
+--status-line

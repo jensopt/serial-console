@@ -1,0 +1,5 @@
+# FortiAP console
+# Usage: SerialTerm @fortiap
+--baud
+9600
+--status-line

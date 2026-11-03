@@ -1,0 +1,5 @@
+# FortiSwitch console
+# Usage: SerialTerm @fortiswitch
+--baud
+115200
+--status-line
