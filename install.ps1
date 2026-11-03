@@ -1,4 +1,4 @@
-﻿# serial-console installer / updater:
+# serial-console installer / updater:
 #   irm https://raw.githubusercontent.com/jensopt/serial-console/main/install.ps1 | iex
 & {
     $ErrorActionPreference = 'Stop'
